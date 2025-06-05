@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "golden-centaur-461803-v1",
+  "private_key_id": "3d47f54c8e5541b8dd8a0e21403b998e1e567886",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdG8NFPloo8XqY\nYAzetNexin/0Uc0wdf14rvGpcpDUPBHrMCSa3oL3ovSdsq40Mpewv38qflloVA76\nJedmh7FaYWeNgY4SKxmqkPRcoZ6lVT+mnzIe4/oQgatQ6hgm4sj3fXoy56O8XQtG\nF+oEuqwqT+zLJGS1/YZFeN09dc5rlPc/whTnERQbSMqD+wX8GR1NmRgAU62Z4PSl\nx/rUmHATmJC2y4LrgFF8K0iJygNB6X+whYXO092dnu1tID+nMNixdeFDQlJS08/s\nKq3tfhgQHWtykYSzW5oHtGpZpNUMyDAbMKiLTXu5qAjFKrGz/Z9Ip8i+a6O/GF3T\n743BEqdJAgMBAAECggEAP5zoLjjFKbhnxAUGTuCKmcq2C22pcgLQPPNgFZcfceAi\na567OU9BMMvSQriQg/X2TGSbynb1dB2S/YcALzBk5xLU/xJB9Jov1THFDA13niuL\nl31/pwGCBVO5HRtsfWuL1CBmktSv99ZxEuZ4boniVH4QK1W6H93jzoL6a99D1xFI\npUtJJnl5krnPypTuC7u8nnOMvPljSbCe3fEtTEou/gfv96c/xnoU7DK606HRwEoy\nTLtdFUf1csuGH1uZNFeSWpqsWeQ6vlkwhfFwzsHAAiCI8uXKIRnhF9QF+eumZ/dp\n4aMtMtLjiHn2HvNRsjWOIwCWhGf2jAF+A4KDqaqOjQKBgQD1oJaw+Ddh5YcpZQWK\n0m+nGx0Ja/ArxzxhNQF2gphxqx3crPfhifhrbJCUu3l4HWw/cmurQL9Ei60agtEQ\nUh+cDysS3BNvb0SAfxzHrzKMxOpBt408aIhcWGlmkj+5AhIqYSFt+tx1aeeabVbU\nofSZhaGe+2Lkukb4vCOzlTS8/wKBgQDmcht8PViI3UgNHAQ0NlwUc6BORvge5cZH\n44e7cBSrDd2IT7u3BuQHYDerULBMjLkQhPOwwVyBydKHgjBUYrO0+xLlQnLb9OYg\nEQqafi6rG2Z/bLFdjkpoAlgCyduGvMsYrhVhqrZfZpvw0nciqRfGvfMszaGq/iMr\ns6EfQ4dztwKBgQCYhYJtG4SQVo2KZ798R1Wrh0uNiSfWl13n4pko9MkidCYT3JgD\nxb+rPPu+T3eK3YJVF4DCE29xaeYweyDEqKoWJtkRWfT7kjUQMV42pJSYEsJ/0jFy\nXFqoNQIl/hRxllafWDcA6vAwPHXjT5fGa1bOactFREZRT1Y4p+LnZXQdEwKBgQDR\njG1l2jrJqb48/X7tI4kzp7jbtTkmj3ZwJHxmexKwQNlzfF2Lnx53fozgoWzPDx+x\n39PgpNPDyYxBYKcl9OLI7Y5PHs9nKBiijByCQ7+YJEBeGq5mDl+mmIsDbh7LNJ3S\nAWq79woDUkD3Ccr/n5dZR5z63rnlzVaaBKu8zCE9nQKBgHm+kcBtqtfbjHacj4vP\n37HRd7RKTUnkUlA6oLi2b5zSDXOipwPdMPdBd+jEv7Wmx9tlalTOU5Hn8HlstnSX\n/YNMY+tp44NV+3Hd8zyD4DLi5zXLX8+mFvUfG2/6mKUGF0Yz82KkFk+468P1nIW0\nd+SFfE8ITyjNlYhwAIa290yj\n-----END PRIVATE KEY-----\n",
+  "client_email": "cafeversionanandaandjson@golden-centaur-461803-v1.iam.gserviceaccount.com",
+  "client_id": "115241789342053061718",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cafeversionanandaandjson%40golden-centaur-461803-v1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
